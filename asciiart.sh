@@ -79,8 +79,7 @@ function etu11 {
 	clear
 }
 function etu12 {
-	echo "travail de"
-	echo "mon asci art"
+	echo "travail de Joey"
 	sleep $1
 	clear
 }
@@ -272,3 +271,4 @@ function prof {
 prof 1
 etu11 1
 etu13 3
+
